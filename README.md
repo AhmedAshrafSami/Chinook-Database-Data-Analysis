@@ -1,6 +1,6 @@
 # Chinook-Database-Data-Analysis
 
- * the most popular music Genre for each country.
+* the most popular music Genre for each country.
  
 USA, Canada, Brazil, France, Germany are at the top
 all of the countries listen to rock music except two countries Sweden listen to Latin and Argentina listen to Alternative & Punk
